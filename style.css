@@ -1,0 +1,149 @@
+
+/* *{
+    font-family: 'Signika Negative', sans-serif;
+} */
+
+.logo h3{
+    font-family: 'Lobster', cursive; 
+}
+.right p{
+    font-family: 'Signika Negative', sans-serif;
+}
+
+#navbarNav{
+ margin-left: 360px;  
+ font-family: 'Lobster', cursive;  
+}
+.navbar{
+    background-color: rgb(159, 193, 105) !important;
+}
+.quote h3{
+    font-family: 'Lobster', cursive; 
+}
+.card-title{
+    font-family: 'Bree Serif', serif;
+}
+
+.beetween .card-body{
+    background-color: rgb(159, 193, 105);
+    border: none !important;
+}
+
+#navbarNav li:hover a{
+    border-bottom: 3px solid black;
+}
+
+.courseheading h3{
+    font-family: 'Lobster', cursive; 
+    
+}
+
+
+.coursename ul li{
+    list-style-type: none;
+    
+}
+.coursename ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Bree Serif', serif;
+    line-height: 50px;
+    color: black;
+
+}
+/* .coursename{
+    
+    background-color: rgb(211, 250, 148);
+   
+} */
+
+.coursename ul li:hover{
+    background-color: rgb(159, 193, 105);
+    border-radius: 20px;
+}
+.footer{
+    background-color: rgb(159, 193, 105);
+}
+.footer span{
+    font-size: 18px !important;
+    font-family: 'Bree Serif', serif;
+}
+
+.courserows .card{
+    background-color: rgb(159, 193, 105);
+    height: 450px;
+}
+.courserows img{
+    height: 230px;
+    
+}
+
+.mentorimage {
+   margin-left: 150px;
+}
+
+.mentorsbody{
+    background-color: rgb(159, 193, 105);
+    border-radius: 30px;
+    height: 170px;
+}
+
+.last{
+    margin-top: 300px;
+}
+.aboutus p{
+    font-family: 'Signika Negative', sans-serif;
+}
+
+/* .aboutus{
+    background-color: rgb(159, 193, 105);
+} */
+.aboutus .container{
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+.testimonals p{
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.testimonalsss h3{
+    font-family: 'Fredoka One', cursive;
+}
+
+.backcolor{
+    background-color: rgb(159, 193, 105);
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.branchheading{
+    color: rgb(159, 193, 105);
+    /* background-color: rgb(159, 193, 105); */
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: bolder;
+    
+}
+.branch{
+    border: 1px solid rgb(159, 193, 105);
+    padding-top: 30px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.formpage{
+    border: 1px solid rgb(159, 193, 105);
+    padding: 30px;
+    font-family: 'Signika Negative', sans-serif;
+}
+.button{
+    background-color: rgb(159, 193, 105);
+    border: 1px solid rgb(159, 193, 105);
+    padding: 12px 40px;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    letter-spacing: 2px;
+    font-family: 'Signika Negative', sans-serif;
+    margin: auto;
+}
